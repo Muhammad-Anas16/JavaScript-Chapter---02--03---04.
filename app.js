@@ -1,14 +1,10 @@
 
-var fulName = "My name is Mark";
 
-alert (fulName);
+alert("please! Enter a valid password");
 
-var fulName = "My nationality is U.S.";
+alert("Welcome to Js land....\n   Happy coding");
+
+var fulName = ("Happy Coding !\nPrevert this page by adding a dialog");
 
 alert(fulName);
 
-var num = 10;
-
-alert(num)
-
-alert(num + 25)
